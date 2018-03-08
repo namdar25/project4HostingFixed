@@ -9,7 +9,7 @@ export class Home extends Component {
 				<div className="homeContainer">
 					<p>This web app is a tool for exploring basic information about planets and colaberating with others in the community to learn!</p>
 					<div className="imageContainer">
-						<img className="solarSystemImage" src="/img/SolarSystemTopDown.png" alt="Solar System Top Down"></img>
+						<img className="solarSystemImage" src="https://firebasestorage.googleapis.com/v0/b/project-4-s.appspot.com/o/SolarSystemTopDown.png?alt=media&token=dd45e15d-fd8e-447c-a846-2f88b72e5e3c" alt="Solar System Top Down"></img>
 						<input type="hidden" value="https://www.pinterest.com/pin/498421883740151399/" />
 					</div>
 					<p>Please make an account or sign in so that you can start posting!</p>
